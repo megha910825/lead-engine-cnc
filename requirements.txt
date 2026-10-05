@@ -1,0 +1,9 @@
+requests
+pandas
+openpyxl
+jinja2
+schedule
+python-dotenv
+twilio
+rich
+pydantic
